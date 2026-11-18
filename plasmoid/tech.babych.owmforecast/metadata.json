@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "babych.vitalii1123@vu.cdu.edu.ua",
+                "Name": "Vitalii Babych"
+            }
+        ],
+        "Category": "Weather",
+        "Description": "Прогноз погоди на основі OpenWeatherMap",
+        "Icon": "weather-clouds",
+        "Id": "tech.babych.owmforecast",
+        "License": "MIT",
+        "Name": "Weather forecast",
+        "Version": "1.0.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
